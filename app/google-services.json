@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245724854003",
+    "firebase_url": "https://bitm2019-b10.firebaseio.com",
+    "project_id": "bitm2019-b10",
+    "storage_bucket": "bitm2019-b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245724854003:android:5462149885fec57d",
+        "android_client_info": {
+          "package_name": "com.example.smartrav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245724854003-is71eopq550mc46qcdfdttuatj3iuu24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartrav",
+            "certificate_hash": "931d191379b1b2dd51fce289a78ce7d8073bdf15"
+          }
+        },
+        {
+          "client_id": "245724854003-dsdjurlch6qhismvfdmafogf2o73de8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnrI6KEhgX5KigKzHmAKhMlx5JtB7Niqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245724854003-dsdjurlch6qhismvfdmafogf2o73de8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
